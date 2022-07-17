@@ -1294,12 +1294,13 @@
 					<step>F</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 				<notations>
 					<dynamics default-y='-70'>
 					<f/>
@@ -1317,7 +1318,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1330,19 +1331,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>F</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1355,11 +1344,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -1440,13 +1468,6 @@
 					<tied type='stop'/>
 				</notations>
 			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
 		</measure>
 		<!--//////////////////// Part 22 | Measure 62 ////////////////////-->
 		<measure number='62'>
@@ -1458,12 +1479,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1476,7 +1498,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1489,19 +1511,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1514,11 +1524,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -1563,6 +1612,7 @@
 				<duration>8</duration>
 				<voice>1</voice>
 				<type>16th</type>
+				<accidental>natural</accidental>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
@@ -1597,13 +1647,6 @@
 					<tied type='stop'/>
 				</notations>
 			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
 		</measure>
 		<!--//////////////////// Part 22 | Measure 63 ////////////////////-->
 		<measure number='63'>
@@ -1615,12 +1658,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1633,7 +1677,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1646,19 +1690,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1671,11 +1703,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -1757,13 +1828,6 @@
 					<tied type='stop'/>
 				</notations>
 			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
 		</measure>
 		<!--//////////////////// Part 22 | Measure 64 ////////////////////-->
 		<measure number='64'>
@@ -1776,13 +1840,14 @@
 					<alter>-1.0</alter>
 					<octave>4</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<accidental>flat</accidental>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1797,7 +1862,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1811,20 +1876,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<alter>-1.0</alter>
-					<octave>4</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -1838,11 +1890,53 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>A</step>
+					<alter>-1.0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1.0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1.0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
 					<alter>-1.0</alter>
 					<octave>4</octave>
 				</pitch>
@@ -1887,6 +1981,7 @@
 				<duration>8</duration>
 				<voice>1</voice>
 				<type>16th</type>
+				<accidental>natural</accidental>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
@@ -1921,13 +2016,6 @@
 				<notations>
 					<tied type='stop'/>
 				</notations>
-			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
 			</note>
 		</measure>
 		<!--//////////////////// Part 22 | Measure 65 ////////////////////-->
@@ -8323,12 +8411,13 @@
 					<step>F</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 				<notations>
 					<dynamics default-y='-70'>
 					<f/>
@@ -8346,7 +8435,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8359,19 +8448,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>F</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8384,11 +8461,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -8469,13 +8585,6 @@
 					<tied type='stop'/>
 				</notations>
 			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
 		</measure>
 		<!--//////////////////// Part 10 | Measure 62 ////////////////////-->
 		<measure number='62'>
@@ -8487,12 +8596,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8505,7 +8615,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8518,19 +8628,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8543,11 +8641,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -8592,6 +8729,7 @@
 				<duration>8</duration>
 				<voice>1</voice>
 				<type>16th</type>
+				<accidental>natural</accidental>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
@@ -8626,13 +8764,6 @@
 					<tied type='stop'/>
 				</notations>
 			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
 		</measure>
 		<!--//////////////////// Part 10 | Measure 63 ////////////////////-->
 		<measure number='63'>
@@ -8644,12 +8775,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8662,7 +8794,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8675,19 +8807,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8700,11 +8820,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -8786,13 +8945,6 @@
 					<tied type='stop'/>
 				</notations>
 			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
 		</measure>
 		<!--//////////////////// Part 10 | Measure 64 ////////////////////-->
 		<measure number='64'>
@@ -8805,13 +8957,14 @@
 					<alter>-1.0</alter>
 					<octave>4</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<accidental>flat</accidental>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8826,7 +8979,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8840,20 +8993,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<alter>-1.0</alter>
-					<octave>4</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -8867,11 +9007,53 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>A</step>
+					<alter>-1.0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1.0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1.0</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
 					<alter>-1.0</alter>
 					<octave>4</octave>
 				</pitch>
@@ -8916,6 +9098,7 @@
 				<duration>8</duration>
 				<voice>1</voice>
 				<type>16th</type>
+				<accidental>natural</accidental>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
@@ -8950,13 +9133,6 @@
 				<notations>
 					<tied type='stop'/>
 				</notations>
-			</note>
-			<note>
-				<rest/>
-				<duration>32</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
 			</note>
 		</measure>
 		<!--//////////////////// Part 10 | Measure 65 ////////////////////-->
@@ -56433,12 +56609,13 @@
 					<step>A</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -56451,7 +56628,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -56464,19 +56641,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -56489,11 +56654,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
 					<octave>4</octave>
 				</pitch>
 				<duration>4</duration>
@@ -56853,38 +57057,25 @@
 					<step>C</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>4</duration>
-				<voice>1</voice>
-				<type>32nd</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>B</step>
-					<octave>3</octave>
-				</pitch>
-				<duration>4</duration>
-				<voice>1</voice>
-				<type>32nd</type>
-				<staff>1</staff>
-				<beam number='1'>end</beam>
-				<beam number='2'>end</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>B</step>
-					<octave>3</octave>
-				</pitch>
 				<duration>8</duration>
 				<voice>1</voice>
 				<type>16th</type>
 				<staff>1</staff>
+				<beam number='1'>end</beam>
+				<beam number='2'>end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -56897,7 +57088,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -56909,22 +57100,63 @@
 				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
-				<beam number='2'>end</beam>
-				<beam number='3'>end</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>B</step>
 					<octave>3</octave>
 				</pitch>
-				<duration>16</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>eighth</type>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>3</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>end</beam>
+				<beam number='2'>end</beam>
+				<beam number='3'>end</beam>
 			</note>
 			<backup>
-				<duration>128</duration>
+				<duration>124</duration>
 			</backup>
 			<note>
 				<pitch>
@@ -57170,12 +57402,13 @@
 					<step>A</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57189,7 +57422,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57202,19 +57435,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57227,11 +57448,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
 					<octave>4</octave>
 				</pitch>
 				<duration>4</duration>
@@ -57260,12 +57520,13 @@
 					<step>E</step>
 					<octave>2</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>5</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>2</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57278,7 +57539,7 @@
 				<staff>2</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57291,19 +57552,7 @@
 				<staff>2</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>E</step>
-					<octave>2</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>5</voice>
-				<type>16th</type>
-				<staff>2</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57316,11 +57565,50 @@
 				<staff>2</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>E</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>5</voice>
+				<type>32nd</type>
+				<staff>2</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>5</voice>
+				<type>32nd</type>
+				<staff>2</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>5</voice>
+				<type>32nd</type>
+				<staff>2</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
 					<octave>2</octave>
 				</pitch>
 				<duration>4</duration>
@@ -57333,7 +57621,7 @@
 			</note>
 			<note>
 				<pitch>
-					<step>E</step>
+					<step>C</step>
 					<octave>2</octave>
 				</pitch>
 				<duration>8</duration>
@@ -57342,18 +57630,6 @@
 				<staff>2</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>2</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>5</voice>
-				<type>16th</type>
-				<staff>2</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57378,8 +57654,8 @@
 				<type>16th</type>
 				<accidental>flat</accidental>
 				<staff>2</staff>
-				<beam number='1'>end</beam>
-				<beam number='2'>end</beam>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57390,6 +57666,20 @@
 				<duration>8</duration>
 				<voice>5</voice>
 				<type>16th</type>
+				<staff>2</staff>
+				<beam number='1'>end</beam>
+				<beam number='2'>end</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<alter>-1.0</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>5</voice>
+				<type>16th</type>
+				<accidental>flat</accidental>
 				<staff>2</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
@@ -57403,23 +57693,9 @@
 				<duration>8</duration>
 				<voice>5</voice>
 				<type>16th</type>
-				<accidental>flat</accidental>
 				<staff>2</staff>
 				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<alter>-1.0</alter>
-					<octave>2</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>5</voice>
-				<type>16th</type>
-				<staff>2</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='2'>end</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57427,13 +57703,12 @@
 					<alter>-1.0</alter>
 					<octave>2</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>5</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<accidental>flat</accidental>
 				<staff>2</staff>
 				<beam number='1'>end</beam>
-				<beam number='2'>end</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57849,15 +58124,16 @@
 			</note>
 			<note>
 				<pitch>
-					<step>C</step>
-					<octave>5</octave>
+					<step>A</step>
+					<octave>4</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57870,7 +58146,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57883,19 +58159,20 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
-					<step>A</step>
+					<step>B</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -57908,11 +58185,37 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
-					<step>G</step>
+					<step>B</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
 					<octave>4</octave>
 				</pitch>
 				<duration>4</duration>
@@ -58427,12 +58730,13 @@
 					<step>E</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -58445,7 +58749,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -58458,23 +58762,11 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
+					<step>F</step>
 					<octave>4</octave>
 				</pitch>
 				<duration>4</duration>
@@ -58483,12 +58775,51 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
-					<step>B</step>
-					<octave>3</octave>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
 				</pitch>
 				<duration>4</duration>
 				<voice>1</voice>
@@ -60193,18 +60524,17 @@
 			<note>
 				<pitch>
 					<step>A</step>
-					<octave>5</octave>
+					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
-				<beam number='2'>begin</beam>
 				<notations>
 					<tuplet type='start' number='1'/>
 				</notations>
@@ -60213,11 +60543,11 @@
 				<chord/>
 				<pitch>
 					<step>A</step>
-					<octave>6</octave>
+					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
@@ -60227,148 +60557,47 @@
 			<note>
 				<pitch>
 					<step>A</step>
-					<octave>5</octave>
+					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
 			</note>
 			<note>
 				<chord/>
 				<pitch>
 					<step>A</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>end</beam>
-				<notations>
-					<tuplet type='stop' number='1'/>
-				</notations>
 			</note>
 			<note>
-				<chord/>
 				<pitch>
 					<step>F</step>
 					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>begin</beam>
-				<notations>
-					<tuplet type='start' number='1'/>
-				</notations>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>F</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>G</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>end</beam>
-				<beam number='2'>end</beam>
 				<notations>
 					<tuplet type='stop' number='1'/>
 				</notations>
@@ -60376,12 +60605,12 @@
 			<note>
 				<chord/>
 				<pitch>
-					<step>G</step>
-					<octave>6</octave>
+					<step>F</step>
+					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
@@ -60390,13 +60619,36 @@
 			</note>
 			<note>
 				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
 					<step>D</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>48</duration>
+				<duration>24</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<staff>1</staff>
+				<beam number='1'>end</beam>
 			</note>
 			<note>
 				<chord/>
@@ -60404,9 +60656,9 @@
 					<step>D</step>
 					<octave>6</octave>
 				</pitch>
-				<duration>48</duration>
+				<duration>24</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<staff>1</staff>
 			</note>
 			<note>
@@ -60760,18 +61012,17 @@
 			<note>
 				<pitch>
 					<step>A</step>
-					<octave>5</octave>
+					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
-				<beam number='2'>begin</beam>
 				<notations>
 					<tuplet type='start' number='1'/>
 				</notations>
@@ -60780,11 +61031,11 @@
 				<chord/>
 				<pitch>
 					<step>A</step>
-					<octave>6</octave>
+					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
@@ -60794,148 +61045,47 @@
 			<note>
 				<pitch>
 					<step>A</step>
-					<octave>5</octave>
+					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
 			</note>
 			<note>
 				<chord/>
 				<pitch>
 					<step>A</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>end</beam>
-				<notations>
-					<tuplet type='stop' number='1'/>
-				</notations>
 			</note>
 			<note>
-				<chord/>
 				<pitch>
 					<step>F</step>
 					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>begin</beam>
-				<notations>
-					<tuplet type='start' number='1'/>
-				</notations>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>F</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>G</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>end</beam>
-				<beam number='2'>end</beam>
 				<notations>
 					<tuplet type='stop' number='1'/>
 				</notations>
@@ -60943,12 +61093,12 @@
 			<note>
 				<chord/>
 				<pitch>
-					<step>G</step>
-					<octave>6</octave>
+					<step>F</step>
+					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
@@ -60957,23 +61107,46 @@
 			</note>
 			<note>
 				<pitch>
-					<step>C</step>
-					<octave>6</octave>
+					<step>G</step>
+					<octave>5</octave>
 				</pitch>
-				<duration>48</duration>
+				<duration>24</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<staff>1</staff>
+				<beam number='1'>begin</beam>
 			</note>
 			<note>
 				<chord/>
 				<pitch>
-					<step>C</step>
-					<octave>7</octave>
+					<step>G</step>
+					<octave>6</octave>
 				</pitch>
-				<duration>48</duration>
+				<duration>24</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
 				<staff>1</staff>
 			</note>
 			<note>
@@ -76955,12 +77128,13 @@
 					<step>F</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -76973,7 +77147,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -76986,19 +77160,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>F</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -77011,11 +77173,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -77313,12 +77514,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -77331,7 +77533,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -77344,19 +77546,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -77369,11 +77559,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -77674,12 +77903,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -77692,7 +77922,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -77705,19 +77935,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -77730,11 +77948,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -78038,12 +78295,13 @@
 					<step>F</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78056,7 +78314,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78069,19 +78327,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>F</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78094,11 +78340,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -78396,12 +78681,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78414,7 +78700,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78427,19 +78713,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78452,11 +78726,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -78757,12 +79070,13 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>4</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>32nd</type>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 				<beam number='2'>begin</beam>
+				<beam number='3'>begin</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78775,7 +79089,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78788,19 +79102,7 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
@@ -78813,11 +79115,50 @@
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
 				<beam number='2'>continue</beam>
-				<beam number='3'>begin</beam>
+				<beam number='3'>continue</beam>
 			</note>
 			<note>
 				<pitch>
 					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>4</duration>
+				<voice>1</voice>
+				<type>32nd</type>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+				<beam number='2'>continue</beam>
+				<beam number='3'>continue</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>4</duration>
@@ -89976,18 +90317,17 @@
 			<note>
 				<pitch>
 					<step>A</step>
-					<octave>5</octave>
+					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
-				<beam number='2'>begin</beam>
 				<notations>
 					<tuplet type='start' number='1'/>
 				</notations>
@@ -89996,11 +90336,11 @@
 				<chord/>
 				<pitch>
 					<step>A</step>
-					<octave>6</octave>
+					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
@@ -90010,148 +90350,47 @@
 			<note>
 				<pitch>
 					<step>A</step>
-					<octave>5</octave>
+					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
 			</note>
 			<note>
 				<chord/>
 				<pitch>
 					<step>A</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>end</beam>
-				<notations>
-					<tuplet type='stop' number='1'/>
-				</notations>
 			</note>
 			<note>
-				<chord/>
 				<pitch>
 					<step>F</step>
 					<octave>6</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>begin</beam>
-				<notations>
-					<tuplet type='start' number='1'/>
-				</notations>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>F</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-				<beam number='1'>continue</beam>
-				<beam number='2'>continue</beam>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>G</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<time-modification>
-					<actual-notes>3</actual-notes>
-					<normal-notes>2</normal-notes>
-				</time-modification>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>8</duration>
-				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
 				</time-modification>
 				<staff>1</staff>
 				<beam number='1'>end</beam>
-				<beam number='2'>end</beam>
 				<notations>
 					<tuplet type='stop' number='1'/>
 				</notations>
@@ -90159,12 +90398,12 @@
 			<note>
 				<chord/>
 				<pitch>
-					<step>G</step>
-					<octave>6</octave>
+					<step>F</step>
+					<octave>5</octave>
 				</pitch>
-				<duration>8</duration>
+				<duration>16</duration>
 				<voice>1</voice>
-				<type>16th</type>
+				<type>eighth</type>
 				<time-modification>
 					<actual-notes>3</actual-notes>
 					<normal-notes>2</normal-notes>
@@ -90173,42 +90412,50 @@
 			</note>
 			<note>
 				<pitch>
-					<step>D</step>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>48</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>D</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>48</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<staff>1</staff>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<alter>-1.0</alter>
-					<octave>5</octave>
-				</pitch>
-				<duration>36</duration>
+				<duration>24</duration>
 				<voice>1</voice>
 				<type>eighth</type>
-				<dot/>
-				<accidental>flat</accidental>
 				<staff>1</staff>
 				<beam number='1'>begin</beam>
 			</note>
 			<note>
 				<chord/>
 				<pitch>
+					<step>G</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
 					<step>E</step>
 					<octave>5</octave>
 				</pitch>
@@ -90217,20 +90464,7 @@
 				<type>eighth</type>
 				<dot/>
 				<staff>1</staff>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>A</step>
-					<alter>-1.0</alter>
-					<octave>5</octave>
-				</pitch>
-				<duration>36</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<dot/>
-				<accidental>flat</accidental>
-				<staff>1</staff>
+				<beam number='1'>begin</beam>
 			</note>
 			<note>
 				<chord/>
@@ -90248,7 +90482,7 @@
 			</note>
 			<note>
 				<pitch>
-					<step>E</step>
+					<step>G</step>
 					<alter>-1.0</alter>
 					<octave>5</octave>
 				</pitch>
@@ -90263,32 +90497,6 @@
 			<note>
 				<chord/>
 				<pitch>
-					<step>G</step>
-					<alter>-1.0</alter>
-					<octave>5</octave>
-				</pitch>
-				<duration>12</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<accidental>flat</accidental>
-				<staff>1</staff>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>B</step>
-					<alter>-1.0</alter>
-					<octave>5</octave>
-				</pitch>
-				<duration>12</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<accidental>flat</accidental>
-				<staff>1</staff>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
 					<step>E</step>
 					<alter>-1.0</alter>
 					<octave>6</octave>
@@ -90300,19 +90508,6 @@
 				<staff>1</staff>
 			</note>
 			<note>
-				<pitch>
-					<step>F</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>36</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<dot/>
-				<staff>1</staff>
-				<beam number='1'>begin</beam>
-			</note>
-			<note>
-				<chord/>
 				<pitch>
 					<step>A</step>
 					<alter>-1.0</alter>
@@ -90322,19 +90517,9 @@
 				<voice>1</voice>
 				<type>eighth</type>
 				<dot/>
+				<accidental>flat</accidental>
 				<staff>1</staff>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>C</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>36</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<dot/>
-				<staff>1</staff>
+				<beam number='1'>begin</beam>
 			</note>
 			<note>
 				<chord/>
@@ -90350,20 +90535,6 @@
 			</note>
 			<note>
 				<pitch>
-					<step>B</step>
-					<alter>-1.0</alter>
-					<octave>5</octave>
-				</pitch>
-				<duration>12</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<staff>1</staff>
-				<beam number='1'>end</beam>
-				<beam number='2'>backward hook</beam>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
 					<step>D</step>
 					<alter>-1.0</alter>
 					<octave>6</octave>
@@ -90372,18 +90543,8 @@
 				<voice>1</voice>
 				<type>16th</type>
 				<staff>1</staff>
-			</note>
-			<note>
-				<chord/>
-				<pitch>
-					<step>E</step>
-					<octave>6</octave>
-				</pitch>
-				<duration>12</duration>
-				<voice>1</voice>
-				<type>16th</type>
-				<accidental>natural</accidental>
-				<staff>1</staff>
+				<beam number='1'>end</beam>
+				<beam number='2'>backward hook</beam>
 			</note>
 			<note>
 				<chord/>
@@ -97982,10 +98143,251 @@
 			<attributes>
 				<divisions>48</divisions>
 			</attributes>
-			<note print-object='no'>
-				<rest/>
-				<duration>192</duration>
-				<type>whole</type>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>16</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<staff>1</staff>
+				<beam number='1'>begin</beam>
+				<notations>
+					<tuplet type='start' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>16</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>16</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<staff>1</staff>
+				<beam number='1'>continue</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>16</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>16</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<staff>1</staff>
+				<beam number='1'>end</beam>
+				<notations>
+					<tuplet type='stop' number='1'/>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>16</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<time-modification>
+					<actual-notes>3</actual-notes>
+					<normal-notes>2</normal-notes>
+				</time-modification>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+				<beam number='1'>end</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>24</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<alter>-1.0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>36</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<accidental>flat</accidental>
+				<staff>1</staff>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>36</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<alter>-1.0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<staff>1</staff>
+				<beam number='1'>end</beam>
+				<beam number='2'>backward hook</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<alter>-1.0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>36</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<staff>1</staff>
+				<beam number='1'>begin</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<alter>-1.0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>36</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<accidental>flat</accidental>
+				<staff>1</staff>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1.0</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<staff>1</staff>
+				<beam number='1'>end</beam>
+				<beam number='2'>backward hook</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<alter>-1.0</alter>
+					<octave>6</octave>
+				</pitch>
+				<duration>12</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<accidental>flat</accidental>
+				<staff>1</staff>
 			</note>
 		</measure>
 		<!--//////////////////// Part 3 | Measure 44 ////////////////////-->
