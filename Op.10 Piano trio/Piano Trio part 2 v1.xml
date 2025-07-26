@@ -99,16 +99,16 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
-   <part-name>Violin I</part-name>
+   <part-name>Violins 1</part-name>
    <part-name-display>
-    <display-text>Violin I</display-text>
+    <display-text>Violins 1</display-text>
    </part-name-display>
    <part-abbreviation>Vln. I</part-abbreviation>
    <part-abbreviation-display>
     <display-text>Vln. I</display-text>
    </part-abbreviation-display>
    <score-instrument id="P1-I1">
-    <instrument-name>Violin I</instrument-name>
+    <instrument-name>Violins 1</instrument-name>
    </score-instrument>
   </score-part>
   <score-part id="P2">

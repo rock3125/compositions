@@ -30,36 +30,36 @@
   </defaults>
   <part-list>
     <score-part id='P13'>
-      <part-name>Horn</part-name>
+      <part-name>Horns</part-name>
       <score-instrument id='P13-I1'>
-        <instrument-name>Horn</instrument-name>
+        <instrument-name>Horns</instrument-name>
       </score-instrument>
       <midi-instrument id='P13-I1'>
         <midi-channel>1</midi-channel>
       </midi-instrument>
     </score-part>
     <score-part id='P14'>
-      <part-name>Horn</part-name>
+      <part-name>Horns</part-name>
       <score-instrument id='P14-I1'>
-        <instrument-name>Horn</instrument-name>
+        <instrument-name>Horns</instrument-name>
       </score-instrument>
       <midi-instrument id='P14-I1'>
         <midi-channel>2</midi-channel>
       </midi-instrument>
     </score-part>
     <score-part id='P15'>
-      <part-name>Trumpet</part-name>
+      <part-name>Trumpets</part-name>
       <score-instrument id='P15-I1'>
-        <instrument-name>Trumpet</instrument-name>
+        <instrument-name>Trumpets</instrument-name>
       </score-instrument>
       <midi-instrument id='P15-I1'>
         <midi-channel>3</midi-channel>
       </midi-instrument>
     </score-part>
     <score-part id='P16'>
-      <part-name>Trombone</part-name>
+      <part-name>Trombones</part-name>
       <score-instrument id='P16-I1'>
-        <instrument-name>Trombone</instrument-name>
+        <instrument-name>Trombones</instrument-name>
       </score-instrument>
       <midi-instrument id='P16-I1'>
         <midi-channel>4</midi-channel>

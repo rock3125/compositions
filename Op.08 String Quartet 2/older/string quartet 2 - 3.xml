@@ -106,35 +106,35 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P1">
-   <part-name>Violin I</part-name>
+   <part-name>Violins 1</part-name>
    <part-name-display>
-    <display-text>Violin I</display-text>
+    <display-text>Violins 1</display-text>
    </part-name-display>
    <part-abbreviation>Vln. I</part-abbreviation>
    <part-abbreviation-display>
     <display-text>Vln. I</display-text>
    </part-abbreviation-display>
    <score-instrument id="P1-I1">
-    <instrument-name>Violin I</instrument-name>
+    <instrument-name>Violins 1</instrument-name>
    </score-instrument>
   </score-part>
   <score-part id="P2">
-   <part-name>Violin II</part-name>
+   <part-name>Violins 2</part-name>
    <part-name-display>
-    <display-text>Violin II</display-text>
+    <display-text>Violins 2</display-text>
    </part-name-display>
    <part-abbreviation>Vln. II</part-abbreviation>
    <part-abbreviation-display>
     <display-text>Vln. II</display-text>
    </part-abbreviation-display>
    <score-instrument id="P2-I1">
-    <instrument-name>Violin II</instrument-name>
+    <instrument-name>Violins 2</instrument-name>
    </score-instrument>
   </score-part>
   <score-part id="P3">
-   <part-name>Viola</part-name>
+   <part-name>Violas</part-name>
    <part-name-display>
-    <display-text>Viola</display-text>
+    <display-text>Violas</display-text>
    </part-name-display>
    <part-abbreviation>Vla.</part-abbreviation>
    <part-abbreviation-display>

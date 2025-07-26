@@ -40,7 +40,7 @@
 		<score-part id='P2'>
 			<part-name>Flute</part-name>
 			<score-instrument id='P2-I1'>
-				<instrument-name>Flute</instrument-name>
+				<instrument-name>Flute</instrument-name><instrument-sound>wind.flutes.flute</instrument-sound>
 			</score-instrument>
 			<midi-instrument id='P2-I1'>
 				<midi-channel>2</midi-channel>
@@ -49,7 +49,7 @@
 		<score-part id='P3'>
 			<part-name>Oboe</part-name>
 			<score-instrument id='P3-I1'>
-				<instrument-name>Oboe</instrument-name>
+				<instrument-name>Oboe</instrument-name><instrument-sound>wind.reed.oboe</instrument-sound>
 			</score-instrument>
 			<midi-instrument id='P3-I1'>
 				<midi-channel>3</midi-channel>
@@ -58,7 +58,7 @@
 		<score-part id='P4'>
 			<part-name>Clarinet</part-name>
 			<score-instrument id='P4-I1'>
-				<instrument-name>Clarinet</instrument-name>
+				<instrument-name>Clarinet</instrument-name><instrument-sound>wind.reed.clarinet</instrument-sound>
 			</score-instrument>
 			<midi-instrument id='P4-I1'>
 				<midi-channel>4</midi-channel>
@@ -67,16 +67,16 @@
 		<score-part id='P5'>
 			<part-name>Bassoon</part-name>
 			<score-instrument id='P5-I1'>
-				<instrument-name>Bassoon</instrument-name>
+				<instrument-name>Bassoon</instrument-name><instrument-sound>wind.reed.bassoon</instrument-sound>
 			</score-instrument>
 			<midi-instrument id='P5-I1'>
 				<midi-channel>5</midi-channel>
 			</midi-instrument>
 		</score-part>
 		<score-part id='P11'>
-			<part-name>Horn</part-name>
+			<part-name>Horns</part-name>
 			<score-instrument id='P11-I1'>
-				<instrument-name>Horn</instrument-name>
+				<instrument-name>Horns</instrument-name>
 			</score-instrument>
 			<midi-instrument id='P11-I1'>
 				<midi-channel>6</midi-channel>

@@ -117,13 +117,13 @@
    </score-instrument>
   </score-part>
   <score-part id="P4">
-   <part-name>Bass</part-name>
+   <part-name>Contrabasses</part-name>
    <part-name-display>
-    <display-text>Bass</display-text>
+    <display-text>Contrabasses</display-text>
    </part-name-display>
-   <part-abbreviation>Bass</part-abbreviation>
+   <part-abbreviation>Contrabasses</part-abbreviation>
    <part-abbreviation-display>
-    <display-text>Bass</display-text>
+    <display-text>Contrabasses</display-text>
    </part-abbreviation-display>
    <score-instrument id="P4-I1">
     <instrument-name>Viola (2)</instrument-name>

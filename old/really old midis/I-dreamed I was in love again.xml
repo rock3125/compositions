@@ -54,9 +54,9 @@
 			</midi-instrument>
 		</score-part>
 		<score-part id='P4'>
-			<part-name>Bass</part-name>
+			<part-name>Contrabasses</part-name>
 			<score-instrument id='P4-I1'>
-				<instrument-name>Bass</instrument-name>
+				<instrument-name>Contrabasses</instrument-name><instrument-sound>strings.group</instrument-sound>
 			</score-instrument>
 			<midi-instrument id='P4-I1'>
 				<midi-channel>4</midi-channel>

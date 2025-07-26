@@ -160,7 +160,7 @@
     <display-text>Ob.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P3-I1">
-    <instrument-name>Oboe</instrument-name>
+    <instrument-name>Oboe</instrument-name><instrument-sound>wind.reed.oboe</instrument-sound>
    </score-instrument>
   </score-part>
   <score-part id="P4">
@@ -395,9 +395,9 @@
    <group-symbol>bracket</group-symbol>
   </part-group>
   <score-part id="P23">
-   <part-name>Violin II</part-name>
+   <part-name>Violins 2</part-name>
    <part-name-display>
-    <display-text>Violin II</display-text>
+    <display-text>Violins 2</display-text>
    </part-name-display>
    <part-abbreviation>Vln. II</part-abbreviation>
    <part-abbreviation-display>
@@ -408,9 +408,9 @@
    </score-instrument>
   </score-part>
   <score-part id="P24">
-   <part-name>Viola</part-name>
+   <part-name>Violas</part-name>
    <part-name-display>
-    <display-text>Viola</display-text>
+    <display-text>Violas</display-text>
    </part-name-display>
    <part-abbreviation>Vla.</part-abbreviation>
    <part-abbreviation-display>

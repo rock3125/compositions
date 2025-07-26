@@ -47,18 +47,18 @@
 			</midi-instrument>
 		</score-part>
 		<score-part id='P3'>
-			<part-name>Viola</part-name>
+			<part-name>Violas</part-name>
 			<score-instrument id='P3-I1'>
-				<instrument-name>Viola</instrument-name>
+				<instrument-name>Violas</instrument-name>
 			</score-instrument>
 			<midi-instrument id='P3-I1'>
 				<midi-channel>3</midi-channel>
 			</midi-instrument>
 		</score-part>
 		<score-part id='P4'>
-			<part-name>Cello</part-name>
+			<part-name>Violincellos</part-name>
 			<score-instrument id='P4-I1'>
-				<instrument-name>Cello</instrument-name>
+				<instrument-name>Violincellos</instrument-name><instrument-sound>strings.group</instrument-sound>
 			</score-instrument>
 			<midi-instrument id='P4-I1'>
 				<midi-channel>4</midi-channel>
