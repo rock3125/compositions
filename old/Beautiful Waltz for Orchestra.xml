@@ -83,18 +83,18 @@
 			</midi-instrument>
 		</score-part>
 		<score-part id='P7'>
-			<part-name>Cellos</part-name>
+			<part-name>Violincellos</part-name>
 			<score-instrument id='P7-I1'>
-				<instrument-name>Cellos</instrument-name>
+				<instrument-name>Violincellos</instrument-name>
 			</score-instrument>
 			<midi-instrument id='P7-I1'>
 				<midi-channel>7</midi-channel>
 			</midi-instrument>
 		</score-part>
 		<score-part id='P8'>
-			<part-name>Basses</part-name>
+			<part-name>Contrabasses</part-name>
 			<score-instrument id='P8-I1'>
-				<instrument-name>Basses</instrument-name>
+				<instrument-name>Contrabasses</instrument-name>
 			</score-instrument>
 			<midi-instrument id='P8-I1'>
 				<midi-channel>8</midi-channel>
